@@ -1,6 +1,6 @@
 # Pixelator App
 
-<p>The original app was an extension of my [Code in Place final 2021 final project](https://github.com/PatrickBruso/image-pixelator-app/tree/master).  I was able to finish the app for the course and then added a GUI and other enhancements afterwards.  My new goal is to rewrite the app using rust instead of python.  I'm not sure there is enough capability to implement a GUI so for now this will be a command line program.  
+<p>The original app was an extension of my ![Code in Place final 2021 final project](https://github.com/PatrickBruso/image-pixelator-app/tree/master).  I was able to finish the app for the course and then added a GUI and other enhancements afterwards.  My new goal is to rewrite the app using rust instead of python.  I'm not sure there is enough capability to implement a GUI so for now this will be a command line program.  
 </p>
 
 My next steps are to implement the following:
